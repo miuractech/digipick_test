@@ -1,0 +1,74 @@
+{
+    "device_id": "1234567890",
+    "data_type": "sensor",
+    "vendor_id": "1234567890",
+    "device_name": "test_device",
+    "device_type": "test_type",
+    "device_model": "test_model",
+    "device_serial_number": "test_serial_number",
+    "device_firmware_version": "0.0.1",
+    "device_hardware_version": "0.0.1",
+    "data": {
+        "result": [
+            [
+                [
+                    83,
+                    55,
+                    138
+                ],
+                [
+                    27,
+                    37,
+                    64
+                ],
+                [
+                    86,
+                    57,
+                    143
+                ]
+            ]
+        ],
+        "mean": [
+            [
+                65.33,
+                49.67,
+                115.0
+            ]
+        ],
+        "standard deviation": [
+            [
+                27.13,
+                8.99,
+                36.12
+            ]
+        ],
+        "variance": [
+            [
+                41.53,
+                18.1,
+                31.41
+            ]
+        ],
+        "max": [
+            [
+                86,
+                57,
+                143
+            ]
+        ],
+        "min": [
+            [
+                27,
+                37,
+                64
+            ]
+        ],
+        "range": [
+            [
+                59,
+                20,
+                79
+            ]
+        ]
+    }
+}

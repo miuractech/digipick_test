@@ -1,0 +1,45 @@
+{
+  "timestamp": "2025-06-16T23:27:16.503648",
+  "folder_name": "sample8",
+  "folder_path": "./sample/sample8",
+  "table_name": "device_test",
+  "bucket_name": "device_test",
+  "json_upload": {
+    "success": true,
+    "filename": "sampledata.json",
+    "error": null,
+    "data_preview": "{'device_id': '1234567890', 'data_type': 'sensor', 'vendor_id': '1234567890', 'device_name': 'test_device', 'device_type': 'test_type', 'device_model': 'test_model', 'device_serial_number': 'test_seri..."
+  },
+  "image_upload": {
+    "total_images": 3,
+    "successful_uploads": 3,
+    "failed_uploads": 0,
+    "uploaded_images": [
+      {
+        "filename": "sampleimg2.jpg",
+        "storage_path": "sample8/sampleimg2.jpg",
+        "public_url": "https://owcanqgrymdruzdrttfo.supabase.co/storage/v1/object/public/devicetest/sample8/sampleimg2.jpg?",
+        "size_bytes": 61066
+      },
+      {
+        "filename": "sampleimg1.jpg",
+        "storage_path": "sample8/sampleimg1.jpg",
+        "public_url": "https://owcanqgrymdruzdrttfo.supabase.co/storage/v1/object/public/devicetest/sample8/sampleimg1.jpg?",
+        "size_bytes": 36565
+      },
+      {
+        "filename": "sampleimg3.jpg",
+        "storage_path": "sample8/sampleimg3.jpg",
+        "public_url": "https://owcanqgrymdruzdrttfo.supabase.co/storage/v1/object/public/devicetest/sample8/sampleimg3.jpg?",
+        "size_bytes": 41993
+      }
+    ],
+    "failed_images": []
+  },
+  "summary": {
+    "overall_success": true,
+    "total_files_processed": 4,
+    "successful_operations": 4,
+    "failed_operations": 0
+  }
+}
